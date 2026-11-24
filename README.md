@@ -95,4 +95,9 @@ For a study, reviewers should label candidates independently before seeing model
 
 ## Demonstration video
 
-The demonstration video will be uploaded separately. Add its final link here once available.
+The following video demonstrates the Group 25
+AI Resume Screening prototype, including resume
+uploads, keyword-based and semantic matching,
+candidate rankings, and evaluation features.
+
+https://drive.google.com/file/d/1e8aSAfgOZPEw55Z6Pe6VhqcYP-zRvPjo/view?usp=sharing
