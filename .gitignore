@@ -1,0 +1,31 @@
+# Python environments
+.venv/
+venv/
+env/
+ENV/
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Local private data and generated exports
+private_data/
+uploads/
+exports/
+applicant_ranking.csv
+reviewer_labels.csv
+evaluation_metrics.csv
