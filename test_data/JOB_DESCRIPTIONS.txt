@@ -1,0 +1,7 @@
+Practical experience troubleshooting Windows desktop and laptop problems.
+Experience supporting Microsoft 365 and Outlook access or email problems.
+Experience managing Active Directory user accounts and password resets.
+Ability to troubleshoot Wi-Fi, LAN and printer connectivity problems.
+Ability to document support requests, troubleshooting steps and resolutions.
+Ability to escalate unresolved technical incidents to the appropriate team.
+Ability to explain technical solutions clearly to non-technical users.
